@@ -2,7 +2,7 @@ export const products = [
   {
     id: 1,
     img: "",
-    link: "http://lama.dev",
+    link: "https://raghoottamkatti-qr-code.web.app/",
   },
   {
     id: 2,
